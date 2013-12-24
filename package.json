@@ -1,0 +1,23 @@
+{
+  "name": "MySQLJS",
+  "version": "0.0.0",
+  "description": "Intended to be an in memory database mock engine",
+  "main": "ratests.js",
+  "dependencies": {
+    "lazy.js": "~0.3.0",
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysql",
+    "relational",
+    "javacript",
+    "mock",
+    "database"
+  ],
+  "author": "Aaron Elligsen",
+  "license": "BSD-2-Clause"
+}
